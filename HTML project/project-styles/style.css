@@ -1,0 +1,47 @@
+body
+{
+    background-color: lightpink;
+    padding: auto;
+}
+.logo
+{
+    font-family: "Londrina Sketch", sans-serif;
+    font-weight: 400px;
+    font-size: 56px;
+    color: white;
+    margin-left: 20px;  
+}
+p
+{
+    font-family: "Concert One", sans-serif;
+    font-size: 20px;
+    color: white;
+}
+.subheading
+{
+    font-family: "Concert One", sans-serif;
+    font-size: 48px;
+    color: white;
+    position: absolute;
+    left: 27px;
+    margin-bottom: 0;
+}
+#pastry
+{
+    margin-top: 36px;
+}
+.footer-content
+{
+    font-family: "Concert One", sans-serif;
+    font-size: 16px;
+    font-weight: 100;
+}
+@media (max-width: 767px)
+{
+    .logo
+    {
+        font-size: 45px;
+    }
+}
+
+
